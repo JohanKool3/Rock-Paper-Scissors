@@ -1,6 +1,6 @@
-from modules.graphicalElements import displayMenu, displayCredits
-from modules.inputs import getUserInput
-from modules.rockPaperScissors import game
+from graphicalElements import displayMenu, displayCredits
+from inputs import getUserInput
+from rockPaperScissors import game
 
 def main():
     running = True
